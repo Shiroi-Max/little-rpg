@@ -1,0 +1,24 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "D:/Development/SDL2/x86_64-w64-mingw32/**",
+        "${workspaceFolder}/**"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "compilerPath": "D:/Development/w64devkit/bin/gcc.exe",
+      "browse": {
+        "path": [
+          "D:/Development/SDL2/x86_64-w64-mingw32/**",
+          "${workspaceFolder}/**"
+        ],
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": ""
+      },
+      "cStandard": "c23",
+      "configurationProvider": "ms-vscode.makefile-tools"
+    }
+  ],
+  "version": 4
+}
